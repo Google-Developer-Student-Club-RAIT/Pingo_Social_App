@@ -15,7 +15,7 @@ Pingo is a fully functional social media app with multiple features built with A
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Google-Developer-Student-Club-RAIT/Pingo_Social_App
+https://github.com/Google-Developer-Student-Club-RAIT/Pingo_Social_App.git 
 ```
 
 **Step 2:**
@@ -50,7 +50,7 @@ or if you get any error in gradle then execute following option:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/Google-Developer-Student-Club-RAIT/Pingo_Social_App
+git clone https://github.com/Google-Developer-Student-Club-RAIT/Pingo_Social_App.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
